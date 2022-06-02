@@ -373,7 +373,7 @@ span.subtitle{
 
 .button{
     display: inline-block;
-    background-color: var(--first-color);
+    background-color: var(--first-color-alt);
     color: var(--white-color);
     padding: 1rem 2rem;
     font-weight: var(--font-semi-bold);

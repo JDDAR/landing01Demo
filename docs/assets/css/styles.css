@@ -232,10 +232,10 @@ span.subtitle{
         background-color: var(--body-color);
         top: 0;
         right: -100%;
-        width: 100%;
+        width: 70%;
         height: 100%;
         box-shadow: -1px 0 4px hsl(var(--hue-color), 64%, 15%, .15);
-        padding: 5rem 0 4rem;
+        padding: 3rem;
         transition: .4s;
     }
     .header{
@@ -339,7 +339,7 @@ span.subtitle{
 
 }
 .home_info{
-    background-color: var(--first-color);
+    background-color: var(--first-color-alt);
     display: flex;
     padding: 1.5rem 1rem;
     align-items: center;
